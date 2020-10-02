@@ -4,7 +4,7 @@ Johnathon Martin
 https://github.com/miguelgrinberg/flasky
 
 Activity 1 
-![Alt text](Images/activity_1.png)
+![Alt text](Images/activity_1_1.png)
 
 Activity 2
 ![Alt text](Images/activity_2_1.png)
