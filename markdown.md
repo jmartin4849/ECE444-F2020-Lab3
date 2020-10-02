@@ -1,2 +1,2 @@
-![GitHub Logo](/Images/activity 1.png)
+![Alt text](Images/activity 1.png?raw=true "Title)
 
