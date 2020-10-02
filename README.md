@@ -3,8 +3,14 @@ Johnathon Martin
  this repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
+Activity 1 
 ![Alt text](Images/activity_1.png)
 
+Activity 2
+![Alt text](Images/activity_2_1.png)
+![Alt text](Images/activity_2_2.png)
+![Alt text](Images/activity_2_3.png)
+![Alt text](Images/activity_2_4.png)
 
 Activity 3: Differences between SQL and noSQL
 The major difference is that SQL is relational and noSQL is not.  This means that SQL has a more defined structure
