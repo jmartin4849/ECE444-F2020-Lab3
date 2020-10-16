@@ -1,19 +1,17 @@
-# ECE444-F2020-Lab3
-Johnathon Martin
- this repo is a clone of
-https://github.com/miguelgrinberg/flasky
-
-Activity 1 
-![Alt text](Images/activity_1.png)
 
 Activity 2
-![Alt text](Images/activity_2_1.png)
-![Alt text](Images/activity_2_2.png)
-![Alt text](Images/activity_2_3.png)
-![Alt text](Images/activity_2_4.png)
+![Alt text](Images/picture1.png)
+![Alt text](Images/picture2.png)
 
-Activity 3: Differences between SQL and noSQL
-The major difference is that SQL is relational and noSQL is not.  This means that SQL has a more defined structure
-and must use a pre defined schema that is accessed via queries whereas noSQL is more dynamic with no strict underlying structure.  SQL is table based
-where as uses document, key-value, graph or wide-column storages.
 
+Build the system by getting to the root directory of the dockerfile and the rest of the files
+then typing "docker build -t flask-sample:latest ."
+
+Activity 3
+Differences between Docker Containers and virtual Machines
+A container runs on the systema nd shares a kernal with the host machine.
+It is a discrete process just like any other application
+
+A virtual machine is it's own operating system that runs on top of the
+hosts operating system.  This requires dedicated resources and has high overheadd
+as it requires support for the whole operating system.

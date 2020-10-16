@@ -1,9 +1,11 @@
+print("HELLO")
 from flask import Flask, render_template, session, redirect, url_for, flash
 from flask_bootstrap import Bootstrap
 from flask_moment import Moment
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired, Email
+print("HELLO")
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard to guess string'
@@ -49,5 +51,5 @@ def index():
 
 
 if __name__ == '__main__':
- app.run(debug=True)
+ app.run(host="0.0.0.0", debug=True)
 
